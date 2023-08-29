@@ -1,0 +1,4 @@
+aiohttp[speedups]
+SQLAlchemy==1.4.47
+asyncpg
+black
